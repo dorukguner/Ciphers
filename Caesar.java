@@ -5,7 +5,7 @@ import java.util.Scanner;
  * 17/03/18
  */
 
-public class main {
+public class Caesar {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
