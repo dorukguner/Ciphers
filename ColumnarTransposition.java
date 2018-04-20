@@ -5,7 +5,7 @@ import java.util.*;
  * 08/04/18
  */
 
-public class main {
+public class ColumnarTransposition {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
