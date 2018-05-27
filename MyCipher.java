@@ -7,7 +7,7 @@ import java.util.TreeMap;
  * 16/05/18
  */
 
-public class Main {
+public class MyCipher {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
